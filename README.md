@@ -1,4 +1,4 @@
 snippets
 ========
 
-A collection of useful classes, functions, and code snippets.
+A collection of potentially useful, possibly reusable code snippets.
